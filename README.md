@@ -6,6 +6,7 @@ Practical, copy-and-paste guides for building with AI, automation, and modern de
 
 | Guide | What you’ll learn | Updated |
 |---|---|---|
+| [3 Claude Code Plugins That Save Tokens](guides/3-claude-code-plugins-that-save-tokens.md) | Use Caveman, Ponytail, and Headroom to reduce verbose output, unnecessary code, and oversized context. | 20 August 2026 |
 | [How to Apply to 100 Jobs with Codex](guides/how-to-apply-to-100-jobs-with-codex.md) | Organise a private job-application workspace, tailor truthful answers and CVs from evidence, and keep final submission under human control. | 20 August 2026 |
 | [5 Claude Skills That Change Everything](guides/5-claude-skills-that-change-everything.md) | Install and use `grill-me`, Superpowers, `frontend-design`, PDF, and `webapp-testing`. | 18 August 2026 |
 | [5 Claude Files Nobody Talks About](guides/5-claude-files-nobody-talks-about.md) | Set up `CLAUDE.md`, `.mcp.json`, project settings, reusable skills, and specialist subagents. | 18 August 2026 |
