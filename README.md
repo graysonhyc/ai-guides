@@ -6,6 +6,7 @@ Practical, copy-and-paste guides for building with AI, automation, and modern de
 
 | Guide | What you’ll learn | Updated |
 |---|---|---|
+| [5 Claude Code Plugins for Better UI](guides/5-claude-code-plugins-for-better-ui.md) | Combine Taste Skill, DESIGN.md references, Image to Code, Vercel's Web Design Guidelines, and Playwright CLI to direct, build, audit, and verify front-end work. | 23 August 2026 |
 | [Turn Claude Cowork Into Your Personal OS](guides/personal-os/README.md) | Build `SOUL.md`, `STYLE.md`, and `MEMORY.md` so Claude understands who you are, how you write, and what matters now. | 23 August 2026 |
 | [3 Claude Code Plugins That Save Tokens](guides/3-claude-code-plugins-that-save-tokens.md) | Use Caveman, Ponytail, and Headroom to reduce verbose output, unnecessary code, and oversized context. | 20 August 2026 |
 | [How to Apply to 100 Jobs with Codex](guides/how-to-apply-to-100-jobs-with-codex.md) | Organise a private job-application workspace, tailor truthful answers and CVs from evidence, and keep final submission under human control. | 20 August 2026 |
