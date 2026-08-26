@@ -6,6 +6,7 @@ Practical, copy-and-paste guides for building with AI, automation, and modern de
 
 | Guide | What you’ll learn | Updated |
 |---|---|---|
+| [Vibe Code Like a Senior Engineer with Agent Skills](guides/agent-skills-vibe-code-like-a-senior-engineer.md) | Add specification, planning, incremental implementation, testing, code review, and launch gates to AI-assisted development. | 26 August 2026 |
 | [5 Claude Code Plugins for Better UI](guides/5-claude-code-plugins-for-better-ui.md) | Combine Taste Skill, DESIGN.md references, Image to Code, Vercel's Web Design Guidelines, and Playwright CLI to direct, build, audit, and verify front-end work. | 23 August 2026 |
 | [Turn Claude Cowork Into Your Personal OS](guides/personal-os/README.md) | Build `SOUL.md`, `STYLE.md`, and `MEMORY.md` so Claude understands who you are, how you write, and what matters now. | 23 August 2026 |
 | [3 Claude Code Plugins That Save Tokens](guides/3-claude-code-plugins-that-save-tokens.md) | Use Caveman, Ponytail, and Headroom to reduce verbose output, unnecessary code, and oversized context. | 20 August 2026 |
