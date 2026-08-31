@@ -6,6 +6,7 @@ Practical, copy-and-paste guides for building with AI, automation, and modern de
 
 | Guide | What you’ll learn | Updated |
 |---|---|---|
+| [5 Google AI Tools for Building and Launching Faster](guides/5-google-ai-tools-for-building-and-launching-faster.md) | Use Pomelli, Stitch, Opal, Antigravity, and Mixboard across branding, UI design, automation, coding, and visual concepting. | 31 August 2026 |
 | [Build an AI Creator: Face, Voice, Motion, Cut](guides/build-an-ai-creator-face-voice-motion-cut.md) | Create a consistent fictional presenter with Midjourney or Higgsfield, ElevenLabs, Kling or Runway, and Claude Code with FFmpeg. | 30 August 2026 |
 | [Run DeepSeek Harness Locally](guides/deepseek-harness-quick-start.md) | Launch the local Web UI, configure a model, select a disposable workspace, and complete a safe first test. | 29 August 2026 |
 | [Vibe Code Like a Senior Engineer with Agent Skills](guides/agent-skills-vibe-code-like-a-senior-engineer.md) | Add specification, planning, incremental implementation, testing, code review, and launch gates to AI-assisted development. | 26 August 2026 |
