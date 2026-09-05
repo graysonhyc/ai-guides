@@ -6,6 +6,7 @@ Practical, copy-and-paste guides for building with AI, automation, and modern de
 
 | Guide | What you’ll learn | Updated |
 |---|---|---|
+| [Grok Bot: Night Shift Briefing and an AI Agent Team](guides/grok-bot-night-shift-and-agent-team.md) | Set up a daily AI briefing and a Researcher, Writer and Reviewer workflow with linked evidence and approval checkpoints. | 5 September 2026 |
 | [Fable 5.1: GitHub File and CLAUDE.md Starter](guides/fable-5-1-system-prompt-and-claude-md.md) | Explore the third-party file discussed in the video and write concise project instructions using an original starter. | 5 September 2026 |
 | [5 Google AI Tools for Building and Launching Faster](guides/5-google-ai-tools-for-building-and-launching-faster.md) | Use Pomelli, Stitch, Opal, Antigravity, and Mixboard across branding, UI design, automation, coding, and visual concepting. | 31 August 2026 |
 | [Build an AI Creator: Face, Voice, Motion, Cut](guides/build-an-ai-creator-face-voice-motion-cut.md) | Create a consistent fictional presenter with Midjourney or Higgsfield, ElevenLabs, Kling or Runway, and Claude Code with FFmpeg. | 30 August 2026 |
