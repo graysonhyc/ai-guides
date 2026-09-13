@@ -6,6 +6,7 @@ Practical, copy-and-paste guides for building with AI, automation, and modern de
 
 | Guide | What you’ll learn | Updated |
 |---|---|---|
+| [4 Website Effects: GitHub Links and Starter Prompts](guides/four-website-effects-prompts.md) | Find glass, 3D, gradient and metallic-logo projects, then use starter prompts to adapt one effect to your website. | 13 September 2026 |
 | [Gemini 3.8 Flash vs Claude Opus 5: Benchmark Report and Pricing](guides/gemini-38-flash-vs-claude-opus-5-benchmark-report.md) | Read the full DeepSWE reports and compare the published scores, task costs and dated API prices. | 5 September 2026 |
 | [Grok Bot: Night Shift Briefing and an AI Agent Team](guides/grok-bot-night-shift-and-agent-team.md) | Set up a daily AI briefing and a Researcher, Writer and Reviewer workflow with linked evidence and approval checkpoints. | 5 September 2026 |
 | [Fable 5.1: GitHub File and CLAUDE.md Starter](guides/fable-5-1-system-prompt-and-claude-md.md) | Explore the third-party file discussed in the video and write concise project instructions using an original starter. | 5 September 2026 |
