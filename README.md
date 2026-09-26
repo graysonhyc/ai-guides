@@ -6,6 +6,7 @@ Practical, copy-and-paste guides for building with AI, automation, and modern de
 
 | Guide | What you’ll learn | Updated |
 |---|---|---|
+| [AI Coding Tools Tier List 2026: The Full Breakdown](guides/ai-coding-tools-tier-list-2026.md) | See the full S-to-C board for Codex, Grok Bot, Claude Code, Cursor, Jev, Gemini and ChatGPT, why each got its grade, and which one to start with. | 26 September 2026 |
 | [Four websites to check out before you vibe code](guides/four-websites-before-you-vibe-code.md) | Grab a Watermelon UI block, a Realtime Colors palette, Godly references and a Manus brief before you generate the page. | 26 September 2026 |
 | [Four websites that level up your vibe coding](guides/four-websites-that-level-up-vibe-coding.md) | Add Motion Primitives, a Haikei background, a tested palette and a Manus page, one layer at a time. | 26 September 2026 |
 | [Hover Reveal Effect: Two Images and One Prompt](guides/hover-reveal-effect-prompt.md) | Prepare two aligned images, paste one build prompt into your coding tool, then tune the lens size and strength until the reveal feels right. | 26 September 2026 |
