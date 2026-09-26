@@ -6,6 +6,7 @@ Practical, copy-and-paste guides for building with AI, automation, and modern de
 
 | Guide | What you’ll learn | Updated |
 |---|---|---|
+| [Hover Reveal Effect: Two Images and One Prompt](guides/hover-reveal-effect-prompt.md) | Prepare two aligned images, paste one build prompt into your coding tool, then tune the lens size and strength until the reveal feels right. | 26 September 2026 |
 | [Open Design: Quick Start for the Open-Source Claude Design Alternative](guides/open-design-quick-start.md) | Install the free, open-source Claude Design alternative, connect your coding agent or a local model, and refine websites, prototypes, slides and motion graphics on its canvas. | 22 September 2026 |
 | [Jev: Quick Start and Demo Guide](guides/jev-quick-start-and-demos.md) | Try a structured decision, make an API request, and understand the demos and comparison limits. | 19 September 2026 |
 | [4 Website Effects: GitHub Links and Starter Prompts](guides/four-website-effects-prompts.md) | Find glass, 3D, gradient and metallic-logo projects, then use starter prompts to adapt one effect to your website. | 13 September 2026 |
