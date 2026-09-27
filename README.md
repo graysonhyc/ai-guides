@@ -6,6 +6,7 @@ Practical, copy-and-paste guides for building with AI, automation, and modern de
 
 | Guide | What you’ll learn | Updated |
 |---|---|---|
+| [AI Automation Tools Tier List 2026: Six Tools, Ranked](guides/ai-automation-tools-tier-list-2026.md) | Compare OpenClaw, Hermes Agent, Claude Routines, ChatGPT scheduled tasks, n8n and Make.com by how much you still build yourself, with a starter for each. | 27 September 2026 |
 | [AI Engineering Skills Tier List 2026: The Complete List](guides/ai-engineering-skills-tier-list-2026.md) | See why loop engineering and cloud agents are S tier, how to build a harness, structure context, and stop over-optimising prompts, with a starter for each. | 27 September 2026 |
 | [AI Coding Tools Tier List 2026: The Full Breakdown](guides/ai-coding-tools-tier-list-2026.md) | See the full S-to-C board for Codex, Grok Bot, Claude Code, Cursor, Jev, Gemini and ChatGPT, why each got its grade, and which one to start with. | 26 September 2026 |
 | [Four websites to check out before you vibe code](guides/four-websites-before-you-vibe-code.md) | Grab a Watermelon UI block, a Realtime Colors palette, Godly references and a Manus brief before you generate the page. | 26 September 2026 |
