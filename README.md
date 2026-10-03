@@ -6,6 +6,7 @@ Practical, copy-and-paste guides for building with AI, automation, and modern de
 
 | Guide | What you’ll learn | Updated |
 |---|---|---|
+| [HyperFrames Finger Trace, Image Carousel and Spin Halo: The Prompts](guides/hyperframes-finger-trace-effects-prompts.md) | Set up HyperFrames, film gestures the effects can follow, and paste the prompts for a finger trace, an image carousel, a spin halo and word-by-word effect labels. | 3 October 2026 |
 | [AI Presentation Tools Tier List 2026: The Skills I Use for Decks](guides/ai-presentation-tools-tier-list-2026.md) | See why Claude Code beats Gamma, Canva, NotebookLM, Copilot and Plus AI for decks, install the two deck skills, and set up a media kit so every deck follows your rules. | 28 September 2026 |
 | [AI Video Editing Tools Tier List 2026: The Full List](guides/ai-video-editing-tools-tier-list-2026.md) | Compare HyperFrames + Codex, HeyGen, Higgsfield, ElevenLabs, Veo, Kling AI, CapCut and FireCut, with the reason for each grade and where to start. | 27 September 2026 |
 | [AI Automation Tools Tier List 2026: Six Tools, Ranked](guides/ai-automation-tools-tier-list-2026.md) | Compare OpenClaw, Hermes Agent, Claude Routines, ChatGPT scheduled tasks, n8n and Make.com by how much you still build yourself, with a starter for each. | 27 September 2026 |
