@@ -6,6 +6,7 @@ Practical, copy-and-paste guides for building with AI, automation, and modern de
 
 | Guide | What you’ll learn | Updated |
 |---|---|---|
+| [Laya: The Free Jev Alternative, Set Up Properly](guides/laya-free-jev-alternative-setup.md) | See what the free open-source Jev clone really scores, then install it, fine-tune it on your tickets, recalibrate its confidence and route by threshold. | 7 October 2026 |
 | [HyperFrames Hand-Drawn Circle, Arrow and Underline: The Prompts](guides/hyperframes-hand-drawn-effects-prompts.md) | Set up HyperFrames, film gestures for each effect, and paste the prompts for a glowing hand-drawn circle, arrows and a squiggle underline. | 3 October 2026 |
 | [HyperFrames Finger Trace, Image Carousel and Spin Halo: The Prompts](guides/hyperframes-finger-trace-effects-prompts.md) | Set up HyperFrames, film gestures the effects can follow, and paste the prompts for a finger trace, an image carousel, a spin halo and word-by-word effect labels. | 3 October 2026 |
 | [AI Presentation Tools Tier List 2026: The Skills I Use for Decks](guides/ai-presentation-tools-tier-list-2026.md) | See why Claude Code beats Gamma, Canva, NotebookLM, Copilot and Plus AI for decks, install the two deck skills, and set up a media kit so every deck follows your rules. | 28 September 2026 |
