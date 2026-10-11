@@ -6,6 +6,7 @@ Practical, copy-and-paste guides for building with AI, automation, and modern de
 
 | Guide | What you’ll learn | Updated |
 |---|---|---|
+| [12 Jobs for Jev: The Prompt and Resource Pack](guides/12-jobs-for-jev-prompt-pack.md) | Paste-ready prompts for 12 Jev decision workflows, from triaging enquiries and screening CVs to routing skills and picking B-roll, with a safe first test for each. | 11 October 2026 |
 | [Laya: The Free Jev Alternative, Set Up Properly](guides/laya-free-jev-alternative-setup.md) | See what the free open-source Jev clone really scores, then install it, fine-tune it on your tickets, recalibrate its confidence and route by threshold. | 7 October 2026 |
 | [HyperFrames Hand-Drawn Circle, Arrow and Underline: The Prompts](guides/hyperframes-hand-drawn-effects-prompts.md) | Set up HyperFrames, film gestures for each effect, and paste the prompts for a glowing hand-drawn circle, arrows and a squiggle underline. | 3 October 2026 |
 | [HyperFrames Finger Trace, Image Carousel and Spin Halo: The Prompts](guides/hyperframes-finger-trace-effects-prompts.md) | Set up HyperFrames, film gestures the effects can follow, and paste the prompts for a finger trace, an image carousel, a spin halo and word-by-word effect labels. | 3 October 2026 |
