@@ -6,6 +6,7 @@ Practical, copy-and-paste guides for building with AI, automation, and modern de
 
 | Guide | What you’ll learn | Updated |
 |---|---|---|
+| [Clay Outbound: Audience, Enrichment, AI Prompt and Sequencer Settings](guides/clay-outbound-setup.md) | Find software companies hiring a Head of Sales, enrich the decision-maker, write openers from real facts, then buy and warm inboxes and launch a Sequencer 2.0 campaign. | 16 October 2026 |
 | [REA: Let Claude Code Reverse Engineer an App Feature](guides/rea-reverse-engineer-any-app-setup.md) | Install the free REA MCP server and skill, point Claude Code or Codex at an app you're allowed to examine, and get how a feature works, the evidence, and your own version. | 12 October 2026 |
 | [12 Jobs for Jev: The Prompt and Resource Pack](guides/12-jobs-for-jev-prompt-pack.md) | Paste-ready prompts for 12 Jev decision workflows, from triaging enquiries and screening CVs to routing skills and picking B-roll, with a safe first test for each. | 11 October 2026 |
 | [Laya: The Free Jev Alternative, Set Up Properly](guides/laya-free-jev-alternative-setup.md) | See what the free open-source Jev clone really scores, then install it, fine-tune it on your tickets, recalibrate its confidence and route by threshold. | 7 October 2026 |
